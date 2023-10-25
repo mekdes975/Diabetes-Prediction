@@ -1,1 +1,4 @@
 # Diabetes-Prediction
+
+### Overview 
+The aim of this project is to utilize a random forest classifier to predict the presence or absence of diabetes in individuals based on various features such as the number of pregnancies, insulin level, age, and BMI. The dataset used in this project was obtained from Kaggle, a platform for machine learning and data science. The original source of the dataset is the National Institute of Diabetes and Digestive and Kidney Diseases. The dataset consists of diagnostic measurements and is focused on predicting diabetes in female patients of at least 21 years old who have Pima Indian heritage. The random forest classifier, a machine learning algorithm, is employed to perform the prediction task.
